@@ -21,7 +21,7 @@ class Coffee(QMainWindow):
                     i, j, t)
 
 
-print('dsjds')
+print(12132)
 
 
 if __name__ == '__main__':
