@@ -21,6 +21,9 @@ class Coffee(QMainWindow):
                     i, j, t)
 
 
+print('dsjds')
+
+
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     co = Coffee()
